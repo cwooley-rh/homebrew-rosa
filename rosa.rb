@@ -1,4 +1,4 @@
-class RosaCli < Formula
+class Rosa < Formula
     desc "RedHat OpenShift Service on AWS (ROSA) command-line interface"
     homepage "https://www.openshift.com/products/amazon-openshift"
     url "https://github.com/openshift/rosa/archive/refs/tags/v1.2.6.tar.gz"
